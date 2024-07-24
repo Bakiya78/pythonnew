@@ -1,3 +1,5 @@
+#find armstrong number:
+
 n=153
 temp=153
 sum=0
