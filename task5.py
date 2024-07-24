@@ -1,3 +1,5 @@
+#find duplicates:
+
 row=[1,2,3,4,4,4,5,5,52,35,23,35,52]
 print(row)
 print(len(row))
