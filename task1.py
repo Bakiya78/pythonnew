@@ -1,5 +1,5 @@
 #task 1
-#ormatted string 
+#formatted string 
 #creating dictionaries:
 
 dic1={'student':"eve",
